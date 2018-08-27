@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -DNDEBUG    CMakeFiles/usesophus.dir/src/usesophus.cpp.o  -o usesophus -Wl,-rpath,/home/gtkansy/Sophus/build /home/gtkansy/Sophus/build/libSophus.so 

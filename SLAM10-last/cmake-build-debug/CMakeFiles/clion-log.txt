@@ -1,0 +1,15 @@
+/home/gtkansy/software/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gtkansy/CLionProjects/SLAM10-last
+-- Found installed version of Eigen: /usr/lib/cmake/eigen3
+-- Found required Ceres dependency: Eigen version 3.3.4 in /usr/include/eigen3
+-- Found required Ceres dependency: glog
+-- Found installed version of gflags: /usr/lib/x86_64-linux-gnu/cmake/gflags
+-- Detected gflags version: 2.2.1
+-- Found required Ceres dependency: gflags
+-- Found Ceres version: 1.14.0 installed in: /usr/local with components: [EigenSparse, SparseLinearAlgebraLibrary, LAPACK, SuiteSparse, CXSparse, SchurSpecializations, OpenMP, Multithreading]
+-- GTSAM include directory:  /usr/local/lib/cmake/GTSAM/../../../include;/usr/include;/usr/local/include/gtsam/3rdparty/Eigen/
+find g2o libraries in: /usr/local/include
+find g2o lib in g2o_clig2o_ext_freeglut_minimalg2o_simulatorg2o_solver_slam2d_linearg2o_types_icpg2o_types_slam2dg2o_coreg2o_interfaceg2o_solver_csparseg2o_solver_structure_onlyg2o_types_sbag2o_types_slam3dg2o_csparse_extensiong2o_opengl_helperg2o_solver_denseg2o_stuffg2o_types_sclam2dg2o_parserg2o_solver_pcgg2o_types_datag2o_types_sim3cxsparse
+find cholmod in /usr/include/suitesparse
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gtkansy/CLionProjects/SLAM10-last/cmake-build-debug
